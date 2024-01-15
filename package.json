@@ -4,9 +4,6 @@
   "description": "react-flags-select React component",
   "main": "build/index.js",
   "module": "build/index.esm.js",
-  "files": [
-    "build"
-  ],
   "scripts": {
     "lint": "yarn check-types && yarn lint:js",
     "check-types": "tsc --noEmit",
